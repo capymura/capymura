@@ -1,4 +1,4 @@
-# CapyMura Projects
+# Made by CapyMura
 
 Hi, I'm **CapyMura**. I build things that are calm, useful and a little bit personal: tools, study sites and projects that matter to me.
 
