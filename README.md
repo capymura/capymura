@@ -6,7 +6,7 @@ Hi, I'm **CapyMura**. I build things that are calm, useful and a little bit pers
 
 | Project | What it is |
 |---|---|
-| [**Spaces**](https://andesgringa.github.io/spaces) | A tribute site for my grandmother, Memaw. |
+| [**Spaces**](https://andesgringa.github.io/spaces) | My grandmother Memaw: a mathematician with a 1983 Ph.D. in topology, and the heart of our family. |
 | [**CapyDrop**](https://andesgringa.github.io/capydrop) | Send files directly from one computer to another. |
 | [**AI Foundations**](https://andesgringa.github.io/ai-foundations) | A study site explaining AI basics in plain language. |
 | [**EvoState**](https://andesgringa.github.io/evostate) | Maps how AI is evolving through capability, agency, trust, risk and time. |
