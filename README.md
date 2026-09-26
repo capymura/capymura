@@ -8,6 +8,7 @@ Endlessly curious and learning to build with **AI**. I love thinking about how *
 |---|---|
 | [**AI Foundations**](https://andesgringa.github.io/ai-foundations) | Notes for an AI foundations course. |
 | [**Research Methods**](https://andesgringa.github.io/research-methods/) | Notes for a graduate research methods class, in plain language. |
+| [**Databases**](https://andesgringa.github.io/relational-databases/) | Intro to Databases. |
 | [**EvoState**](https://andesgringa.github.io/evostate) | Maps how AI is evolving through capability, agency, trust, risk and time. |
 
 ## Random Creations
