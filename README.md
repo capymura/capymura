@@ -1,13 +1,13 @@
-# Made by CapyMura
+# CapyMura 🖖
 
-Hi, I'm **CapyMura**. I like building useful and fun things: tools, study sites, and projects to keep my mind nimble.
+Not a traditional developer. I love exploring **AI**, thinking about how **information is organized**, playing with **databases**, and seeing how far I can take an idea. Some projects are useful, some are experiments, and some exist simply because I wondered if I could build them.
 
 ## Learning
 
 | Project | What it is |
 |---|---|
-| [**AI Foundations**](https://andesgringa.github.io/ai-foundations) | AI basics explained in plain language. |
-| [**Research Methods**](https://andesgringa.github.io/research-methods/) | My notes for a graduate research methods class, in plain language. |
+| [**AI Foundations**](https://andesgringa.github.io/ai-foundations) | Notes for an AI foundations course. |
+| [**Research Methods**](https://andesgringa.github.io/research-methods/) | Notes for a graduate research methods class, in plain language. |
 | [**EvoState**](https://andesgringa.github.io/evostate) | Maps how AI is evolving through capability, agency, trust, risk and time. |
 
 ## Random Creations
