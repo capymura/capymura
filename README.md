@@ -1,6 +1,6 @@
 # CapyMura 🖖
 
-Not a traditional developer. I love exploring **AI**, thinking about how **information is organized**, playing with **databases**, and seeing how far I can take an idea. Some projects are useful, some are experiments, and some exist simply because I wondered if I could build them.
+Endlessly curious and learning to build with **AI**. I love thinking about how **information is organized**, playing with **databases**, and seeing how far I can take an idea.
 
 ## Learning
 
