@@ -39,7 +39,7 @@ Curiosa sin descanso y aprendiendo a construir con **IA**. Me encanta pensar en 
 | [**Research Methods**](https://capymura.github.io/research-methods/) | Apuntes de una clase de posgrado sobre métodos de investigación, en lenguaje sencillo. |
 | [**Databases**](https://capymura.github.io/relational-databases/) | Introducción a las bases de datos. |
 | [**EvoState**](https://capymura.github.io/evostate) | Un mapa de cómo evoluciona la IA en capacidad, agencia, confianza, riesgo y tiempo. |
-| [**Presentación de EvoState**](https://github.com/capymura/capymura/blob/main/EvoState-presentation.pdf) | Diapositivas de clase (en inglés): ¿qué es la IA y dónde estamos realmente? |
+| [**Presentación de EvoState**](https://github.com/capymura/capymura/blob/main/EvoState-presentacion.pdf) | Diapositivas de clase: ¿qué es la IA y dónde estamos realmente? |
 
 ## Creaciones varias
 
