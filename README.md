@@ -14,6 +14,12 @@ Endlessly curious and learning to build with **AI**. I love thinking about how *
 | [**EvoState**](https://capymura.github.io/evostate) | Maps how AI is evolving through capability, agency, trust, risk and time. |
 | [**EvoState presentation**](https://github.com/capymura/capymura/blob/main/EvoState-presentation.pdf) | Class slides: what is AI, and where are we really? |
 
+## AI and Information Architecture
+
+| Project | What it is |
+|---|---|
+| [**Section 31 AI Library**](https://capymura.github.io/section-31/) | A shared library of AI links you can walk through, set in a library orbiting Earth. |
+
 ## Random Creations
 
 | Project | What it is |
@@ -40,6 +46,12 @@ Curiosa sin descanso y aprendiendo a construir con **IA**. Me encanta pensar en 
 | [**Databases**](https://capymura.github.io/relational-databases/) | Introducción a las bases de datos. |
 | [**EvoState**](https://capymura.github.io/evostate) | Un mapa de cómo evoluciona la IA en capacidad, agencia, confianza, riesgo y tiempo. |
 | [**Presentación de EvoState**](https://github.com/capymura/capymura/blob/main/EvoState-presentacion.pdf) | Diapositivas de clase: ¿qué es la IA y dónde estamos realmente? |
+
+## IA y arquitectura de la información
+
+| Proyecto | Qué es |
+|---|---|
+| [**Section 31 AI Library**](https://capymura.github.io/section-31/) | Una biblioteca compartida de enlaces sobre IA que puedes recorrer, en una biblioteca que orbita la Tierra. |
 
 ## Creaciones varias
 
